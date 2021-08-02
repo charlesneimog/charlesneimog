@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlesneimog&show_icons=true&title_color=c90000&icon_color=b55b5b)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlesneimog&show_icons=true&title_color=0065c9&icon_color=0065c9)
 
 ### Bio
 
