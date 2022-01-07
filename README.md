@@ -1,4 +1,9 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlesneimog&show_icons=true&title_color=0065c9&icon_color=0065c9)
+<div align="center">
+  <a href="https://github.com/charlesneimog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesneimog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
 
 ### Bio
 
