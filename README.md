@@ -9,8 +9,8 @@ Charles K. Neimog, born from Espírito Santo's countryside, is a Ph.D. candidate
 
 <div align="center">
   <a href="https://github.com/charlesneimog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
 
