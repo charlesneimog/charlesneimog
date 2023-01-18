@@ -6,10 +6,3 @@ Charles K. Neimog, born in Espírito Santo's countryside, is a PhD candidate (20
 
 ### [Website](http://charlesneimog.com/)                                                                          
 ### [SoundCloud](https://soundcloud.com/charlesneimog)
-
-<div align="center">
-  <a href="https://github.com/charlesneimog">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesneimog&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=charlesneimog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</div>
